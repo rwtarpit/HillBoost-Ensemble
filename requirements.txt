@@ -1,0 +1,10 @@
+numpy
+pandas
+cupy
+cudf
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow and keras
+tqdm
