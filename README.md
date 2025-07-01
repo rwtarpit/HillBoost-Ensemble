@@ -38,5 +38,11 @@ Clone the repo:
 ```bash
 git clone https://github.com/rwtarpit/HillBoost-Ensemble.git
 cd HillBoost-Ensemble
+```
+## 🤝 Contributing
+
+We welcome contributions!
+
+Check out [`CONTRIBUTING.md`](.github/CONTRIBUTING.md) for setup steps, ideas, and good first issues to work on.
 
 
