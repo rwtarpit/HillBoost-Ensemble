@@ -46,7 +46,7 @@ Add a description of what your change does and link any relevant issue
       Any special data preprocessing it needs
 
 9. **Good First Issues**:
-    If you're looking for somewhere to get started, here are some beginner-friendly ideas:
+    If you're looking for somewhere to get started, here are some beginner-friendly  [good first issues](https://github.com/rwtarpit/HillBoost-Ensemble/labels/good%20first%20issue):
 
     1.🔌 Add support for more GPU-based models from RAPIDS (like cuML)
    
